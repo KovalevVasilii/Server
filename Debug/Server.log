@@ -1,3 +1,9 @@
 ﻿  Server.cpp
+c:\users\home\documents\visual studio 2017\projects\server\server\server.cpp(97): warning C4101: thID: неиспользованная локальная переменная
+c:\users\home\documents\visual studio 2017\projects\server\server\server.cpp(250): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\home\documents\visual studio 2017\projects\server\server\server.cpp(302): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\home\documents\visual studio 2017\projects\server\server\server.cpp(304): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\home\documents\visual studio 2017\projects\server\server\server.cpp(329): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\home\documents\visual studio 2017\projects\server\server\server.cpp(361): warning C4018: <: несоответствие типов со знаком и без знака
   Server.vcxproj -> C:\Users\home\Documents\Visual Studio 2017\Projects\Server\Debug\Server.exe
   Server.vcxproj -> C:\Users\home\Documents\Visual Studio 2017\Projects\Server\Debug\Server.pdb (Partial PDB)
