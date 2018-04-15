@@ -12,7 +12,7 @@ std::vector<SOCKET> clients;
 DWORD WINAPI CheckCommonBuffer(LPVOID client_socket);
 void hh();
 int bytes_recv;
-char* cbuff = "  ";
+char* cbuff = (char*)"  ";
 
 void Server::startServer() {
 	if (WSAStartup(MAKEWORD(2, 2), &wData) == 0)
